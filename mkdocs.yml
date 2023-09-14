@@ -1,7 +1,5 @@
-site_name: Desenvolupament d'interfícies 23-24 - 2n DAM - IES Jaume II "El Just"
-site_url: https://fpieseljust.github.io/di23-24/
-docs_dir: 'md'
-site_dir: 'docs'
+site_name: Prova CI/CD mkdocs
+site_url: https://fpieseljust.github.io/prova-ci-cd-mkdocs/
 nav:
     - Home: index.md
 
